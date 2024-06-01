@@ -1,0 +1,83 @@
+.slider-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 4vw;
+    margin-bottom: 4vw;
+  
+  
+    
+  }
+  
+  .arrow-buttons-container {
+    display: flex;
+    align-items: center;
+    height: 100%;
+  }
+  
+  .arrow-button {
+    font-size: 5vw;
+    background-color: rgba(255, 255, 255, 0.5);
+    color: black;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    padding: 1vw;
+    border-radius: 5px;
+    margin: 0 10px;
+    max-width: 4vw; /* veya istediğiniz bir genişlik */
+  }
+  
+  
+  .slider-gallery {
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 80%;
+    margin-bottom: 4vw;  
+    
+  }
+
+  .slider-card {
+    margin-right: 3vw;
+    background-color: rgba(255, 255, 255, 0.5);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2vw;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    width: 80vw;
+    height: 30vw;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+
+  
+  .slider-card img {
+    width: 75vw;
+    height: 25vw;
+    border-radius: 8px;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  
+  
+  
+  .arrow-button.left {
+    position: absolute;
+    left: 2vh;
+  }
+  
+  .arrow-button.right {
+    position: absolute;
+    right: 2vh;
+  }
+  .arrow-button:hover {
+    background-color: rgba(255, 255, 255, 0.8);
+  }
+  
+  

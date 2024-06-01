@@ -1,0 +1,52 @@
+.services-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  background-image: url('./background.jpg');
+  background-size: cover; /* Resmi kaplayacak şekilde boyutlandır */
+  background-position: center; /* Resmi ortala */
+  background-repeat: no-repeat; /* Resmi tekrar etme */
+
+
+}
+
+.service-card {
+  width: 60%;
+  display: flex;
+  border: 1px solid #ccc;
+  border-radius: 100px;
+  margin: 1.5vw auto;
+  text-align: center;
+  background-color:rgba(210, 210, 210,0.2);
+  border: 2px solid rgb(255, 255, 255); /* Her alt öğeye alt çizgi ekle */
+  box-shadow: 0 5px 5px rgba(200, 200, 200,0.5); /* Alt çizgilere gölge efekti ekle */
+  position: relative; /* Kartın içeriğine göre pozisyon ayarla */
+  overflow: hidden; /* İçeriklerin taşmasını engellemek için */
+}
+
+
+.service-info {
+  flex: 1;
+  padding: 10px;
+}
+
+
+
+.service-info h2 {
+  color: rgb(210, 210, 210); /* Başlık rengi */
+  font-size: 2vw; /* Başlık font boyutu */
+}
+
+.service-info p {
+  color: rgb(210, 210, 210); /* Açıklama rengi */
+  font-size: 1vw; /* Açıklama font boyutu */
+}
+.service-card:hover {
+  transform: scale(1.1); /* Mouse üzerine gelince kartı büyüt */
+}
+.service-card:hover::after {
+  transform: scale(1.1); /* Mouse üzerine gelince borderi büyüt */
+}
+.service-card:hover {
+  cursor: pointer; /* Mouse hover efekti için imleç tipini değiştir */
+}
