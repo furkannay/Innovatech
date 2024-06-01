@@ -25,8 +25,8 @@ You can see the site [here](https://innovatech-nine.vercel.app)
 - **React Icons**: Integration for using icons on the pages.
   
 - **Google Maps Embed**: Used to display Google Maps on the website.
-- 
-- - **Youtube Videos Embed**: Used to display Youtube videos on the website.
+ 
+- **Youtube Videos Embed**: Used to display Youtube videos on the website.
 
 ## Screenshots
 
