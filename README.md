@@ -30,7 +30,8 @@ You can see the site [here](https://innovatech-nine.vercel.app)
 
 ## Screenshots
 
-https://github.com/furkannay/TechTrek/assets/74255322/6fa1c267-7867-429c-bd8e-e943b497a10f
+https://github.com/furkannay/Innovatech/assets/74255322/c3df3811-0b3f-4fd2-ba98-8acfe268b8f8
+
 
 
 
