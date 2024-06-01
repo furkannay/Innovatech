@@ -41,5 +41,5 @@ https://github.com/furkannay/Innovatech/assets/74255322/c3df3811-0b3f-4fd2-ba98-
 
 ![Açıklama](https://github.com/furkannay/Innovatech/assets/74255322/fc6cdf0d-9f22-4841-87f4-6b4166b778ca)
 
-This README file provides a brief overview of the WebWizards Studio website project, highlighting that it is a responsive and SEO-friendly website. For more detailed information about the project, you can explore the codebase and the accompanying screenshots.
+This README file provides a brief overview of the Innovatech website project, highlighting that it is a responsive and SEO-friendly website. For more detailed information about the project, you can explore the codebase and the accompanying screenshots.
 
