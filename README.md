@@ -1,14 +1,14 @@
-# TechTrekX Product Launch Web Application
+# Innovatech Product Launch Web Application
 
-This is a web application developed for the launch of TechTrek's latest innovative smartphone, the TechTrekX. The application provides detailed information about the TechTrekX, allows users to place pre-orders, and offers the latest news updates regarding the product.
+This is a web application developed for the launch of Innovatech's latest innovative VR, the Innovatrek VR Pro. The application provides detailed information about the Innovatech VR pro, allows users to place pre-orders, and offers the latest news updates regarding the product.
 
-You can see the site [here](https://tech-trek-jet.vercel.app)
+You can see the site [here](https://innovatech-nine.vercel.app)
 
 ## Page Content
 
 - **Home**: Introduction and general information about TechTrek Web Application
   
-- **About Us**: Descriptions and details of the agency's offered services.
+- **About Pruduct**: Descriptions and details of the agency's offered services.
   
 - **Features**: A section with the latest news about the TechTrekX, such as release dates, updates, and other important events.
 
@@ -25,6 +25,8 @@ You can see the site [here](https://tech-trek-jet.vercel.app)
 - **React Icons**: Integration for using icons on the pages.
   
 - **Google Maps Embed**: Used to display Google Maps on the website.
+- 
+- - **Youtube Videos Embed**: Used to display Youtube videos on the website.
 
 ## Screenshots
 
