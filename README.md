@@ -1,71 +1,40 @@
-# Getting Started with Create React App
+# TechTrekX Product Launch Web Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a web application developed for the launch of TechTrek's latest innovative smartphone, the TechTrekX. The application provides detailed information about the TechTrekX, allows users to place pre-orders, and offers the latest news updates regarding the product.
 
-## Available Scripts
+You can see the site [here](https://tech-trek-jet.vercel.app)
 
-In the project directory, you can run:
+## Page Content
 
-### `npm start`
+- **Home**: Introduction and general information about TechTrek Web Application
+  
+- **About Us**: Descriptions and details of the agency's offered services.
+  
+- **Features**: A section with the latest news about the TechTrekX, such as release dates, updates, and other important events.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Order Forms**: A form for pre-ordering the smartphone, requiring the user's name, email address, and desired number of devices. Includes client-side data validation.
+  
+- **Contact**: Phone, email, and address information.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technologies Used
 
-### `npm test`
+- **React.js**: Front-end development library used for the website.
+  
+- **CSS**: Styling and design of the pages.
+  
+- **React Icons**: Integration for using icons on the pages.
+  
+- **Google Maps Embed**: Used to display Google Maps on the website.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Screenshots
 
-### `npm run build`
+https://github.com/furkannay/TechTrek/assets/74255322/6fa1c267-7867-429c-bd8e-e943b497a10f
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Açıklama](https://github.com/furkannay/TechTrek/assets/74255322/9a7e0802-872f-4df5-9e15-6af14ea1b152)
 
-### `npm run eject`
+![Açıklama](https://github.com/furkannay/TechTrek/assets/74255322/9397c75e-a60b-4ba8-88a1-db0f3690f450)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+This README file provides a brief overview of the WebWizards Studio website project, highlighting that it is a responsive and SEO-friendly website. For more detailed information about the project, you can explore the codebase and the accompanying screenshots.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Innovatech
