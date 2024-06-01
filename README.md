@@ -37,7 +37,9 @@ https://github.com/furkannay/Innovatech/assets/74255322/c3df3811-0b3f-4fd2-ba98-
 
 ![Açıklama](https://github.com/furkannay/TechTrek/assets/74255322/9a7e0802-872f-4df5-9e15-6af14ea1b152)
 
-![Açıklama](https://github.com/furkannay/TechTrek/assets/74255322/9397c75e-a60b-4ba8-88a1-db0f3690f450)
+![Açıklama](https://github.com/furkannay/Innovatech/assets/74255322/026ba348-4dc6-4560-a851-43aa7f7c45b5)
+
+![Açıklama](https://github.com/furkannay/Innovatech/assets/74255322/fc6cdf0d-9f22-4841-87f4-6b4166b778ca)
 
 This README file provides a brief overview of the WebWizards Studio website project, highlighting that it is a responsive and SEO-friendly website. For more detailed information about the project, you can explore the codebase and the accompanying screenshots.
 
